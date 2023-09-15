@@ -41,5 +41,5 @@ To assemble the system
 ![image](https://github.com/MIRUDHULA-DHANARAJ/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/94828147/3f7dc95f-4ade-46ee-a2bb-ec668f7c0a80)
 
 
-RESULT:
+## RESULT:
 The computer system has been installed successfully.
